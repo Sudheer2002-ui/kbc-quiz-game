@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/test/static/css/main.6b1ee247.css",
-    "main.js": "/test/static/js/main.1e02097d.js",
-    "static/js/453.30e82529.chunk.js": "/test/static/js/453.30e82529.chunk.js",
-    "index.html": "/test/index.html",
-    "main.6b1ee247.css.map": "/test/static/css/main.6b1ee247.css.map",
-    "main.1e02097d.js.map": "/test/static/js/main.1e02097d.js.map",
-    "453.30e82529.chunk.js.map": "/test/static/js/453.30e82529.chunk.js.map"
+    "main.css": "/kbc-quiz-game/static/css/main.6b1ee247.css",
+    "main.js": "/kbc-quiz-game/static/js/main.5bc2a398.js",
+    "static/js/453.30e82529.chunk.js": "/kbc-quiz-game/static/js/453.30e82529.chunk.js",
+    "index.html": "/kbc-quiz-game/index.html",
+    "main.6b1ee247.css.map": "/kbc-quiz-game/static/css/main.6b1ee247.css.map",
+    "main.5bc2a398.js.map": "/kbc-quiz-game/static/js/main.5bc2a398.js.map",
+    "453.30e82529.chunk.js.map": "/kbc-quiz-game/static/js/453.30e82529.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6b1ee247.css",
-    "static/js/main.1e02097d.js"
+    "static/js/main.5bc2a398.js"
   ]
 }
